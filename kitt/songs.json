@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "title": "Champions",
+        "artist": "Kanye West",
+        "album": "Graduation",
+        "file": "musics/Champion.wav"
+    },
+    {
+        "id": 2,
+        "title": "Instant Crush",
+        "artist": "Daft Punk",
+        "album": "Random Acces Memories",
+        "file": "musics/Daft Punk - Instant Crush.wav"
+    },
+    {
+        "id": 3,
+        "title": "Flashing Lights",
+        "artist": "Kanye West",
+        "album": "Graduation",
+        "file": "musics/Flashing Lights.wav"
+    },
+    {
+        "id": 4,
+        "title": "Hey Mama",
+        "artist": "Kanye West",
+        "album": "Late Registration",
+        "file": "musics/Hey Mama.wav"
+    },
+    {
+        "id": 5,
+        "title": "I Wonder",
+        "artist": "Kanye West",
+        "album": "Graduation",
+        "file": "musics/I Wonder.wav"
+    },
+    {
+        "id": 6,
+        "title": "Afterimage",
+        "artist": "Justice",
+        "album": "Hyperdrama",
+        "file": "musics/Justice - Afterimage.wav"
+    },
+    {
+        "id": 7,
+        "title": "Mannequin Love",
+        "artist": "Justice",
+        "album": "Hyperdrama",
+        "file": "musics/Justice - Mannequin Love.wav"
+    },
+    {
+        "id": 8,
+        "title": "Neverender",
+        "artist": "Justice",
+        "album": "Hyperdrama",
+        "file": "musics/Justice - Neverender.wav"
+    },
+    {
+        "id": 9,
+        "title": "One Night/All Night",
+        "artist": "Justice",
+        "album": "Hyperdrama",
+        "file": "musics/Justice - One Night/All Night.wav"
+    },
+    {
+        "id": 10,
+        "title": "Diamonds From Sierre Leone",
+        "artist": "Kanye West",
+        "album": "Late Registration",
+        "file": "musics/Kanye West - Diamonds.wav"
+    },
+    {
+        "id": 11,
+        "title": "Count Me Out",
+        "artist": "Kendrick Lamar",
+        "album": "Mr.Morale & The Big Steppers",
+        "file": "Kendrick Lamar - Count Me Out.wav"
+    },
+    {
+        "id": 12,
+        "title": "N95",
+        "artist": "Kendrick Lamar",
+        "album": "Mr.Morale & The Big Steppers",
+        "file": "Kendrick Lamar - N95.wav"
+    },
+    {
+        "id": 13,
+        "title": "United In Grief",
+        "artist": "Kendrick Lamar",
+        "album": "Mr.Morale & The Big Steppers",
+        "file": "musics/Kendrick Lamar - United In Grief"
+    },
+    {
+        "id": 14,
+        "title": "Nuclear Fusion",
+        "artist": "King Gizzard & the Lizard Wizard",
+        "album": "Flying Microtonal Banana",
+        "file": "musics/Nuclear Fusion.wav"
+    },
+    {
+        "id": 15,
+        "title": "Borderline",
+        "artist": "Tame Impala",
+        "album": "The Slow Rush",
+        "file": "musics/Tame Impala - Borderline.wav"
+    },
+    {
+        "id": 16,
+        "title": "Let It Happen",
+        "artist": "Tame Impala",
+        "album": "Currents",
+        "file": "musics/Tame Impala - Let It Happen.wav"
+    },
+    {
+        "id": 17,
+        "title": "New Person, Same Old Mistakes",
+        "artist": "Tame Impala",
+        "album": "Currents",
+        "file": "musics/Tame Impala - New Person, Same Old Mistakes.wav"
+    },
+    {
+        "id": 18,
+        "title": "The Less I Know The Better",
+        "artist": "Tame Impala",
+        "album": "Currents",
+        "file": "musics/Tame Impala - The Less I Know The Better.wav"
+    },
+    {
+        "id": 19,
+        "title": "Througj The Wire",
+        "artist": "Kanye West",
+        "album": "The College Dropout",
+        "file": "musics/Through The Wire.wav"
+    },
+    {
+        "id": 20,
+        "title": "N95",
+        "artist": "0",
+        "album": "",
+        "file": ""
+    },
+    {
+        "id": 21,
+        "title": "Baby I'm Yours",
+        "artist": "Arctic Monkeys",
+        "album": "Leave Before The Lights Come On",
+        "file": "musics/Baby I'm Yours.wav"
+    },
+    {
+        "id": 22,
+        "title": "as",
+        "artist": "as",
+        "album": "as",
+        "file": "sadada"
+    }
+]
